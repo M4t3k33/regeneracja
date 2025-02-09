@@ -9,7 +9,6 @@ const Navigation = {
                     </div>
                     <ul class="nav-links">
                         <li><a href="#home">Start</a></li>
-                        <li><a href="#offers">Gorące Oferty</a></li>
                         <li><a href="#services">Usługi</a></li>
                         <li><a href="#contact">Kontakt</a></li>
                     </ul>
