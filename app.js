@@ -36,9 +36,6 @@ const Navigation = {
                 </div>
                 <div class="footer-bottom">
                     <p>© 2025 Regenerator - Wszystkie prawa zastrzeżone</p>
-                    <div class="author-credit">
-                        <p>Designed & Developed by <a href="https://github.com/m4t3k33" target="_blank">Mateusz Dymowski</a></p>
-                    </div>
                 </div>
             </footer>
         `;
