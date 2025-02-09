@@ -131,7 +131,7 @@ const Routes = {
                   <p><i class="fas fa-clock"></i> Sobota: 9:00 - 13:00</p>
               </div>
               <div class="social-buttons">
-                  <a href="https://www.facebook.com/yourpage" target="_blank" class="social-btn facebook">
+                  <a href="https://www.facebook.com/profile.php?id=100081201819564" target="_blank" class="social-btn facebook">
                       <i class="fab fa-facebook-f"></i> Facebook
                   </a>
                   <a href="https://wa.me/48604262841" target="_blank" class="social-btn whatsapp">
